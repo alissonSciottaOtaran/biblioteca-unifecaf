@@ -14,7 +14,7 @@ nav a{font-size:14px;color:#e8edf7}
 nav a:hover,nav a:focus{color:#fff;text-decoration:underline}
 .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 20px;border-radius:9px;background:var(--blue2);color:#fff;font-weight:700;border:2px solid var(--blue2);transition:.2s}
 .btn:hover,.btn:focus{transform:translateY(-1px);filter:brightness(1.06)}
-.btn-outline{background:transparent;border-color:#c9d5ea;color:#fff}
+.btn-outline{background:transparent;border:2px solid #c9d5ea;color:#2457a6}
 .btn-small{padding:8px 14px;font-size:13px}
 .hero{background:linear-gradient(135deg,#eef4fd,#fff);padding:78px 0}
 .hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:60px;align-items:center}
