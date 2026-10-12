@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<rect width="900" height="600" rx="32" fill="#eef4fd"/>
+<rect x="105" y="110" width="250" height="350" rx="14" fill="#3975d6" transform="rotate(-8 105 110)"/>
+<rect x="330" y="90" width="250" height="350" rx="14" fill="#e7a93d" transform="rotate(5 330 90)"/>
+<rect x="505" y="120" width="250" height="350" rx="14" fill="#d75b61" transform="rotate(10 505 120)"/>
+<text x="145" y="180" font-family="Arial" font-size="25" fill="white" font-weight="700">DESIGN WEB</text>
+<text x="380" y="160" font-family="Arial" font-size="25" fill="white" font-weight="700">GESTÃO</text>
+<text x="550" y="200" font-family="Arial" font-size="25" fill="white" font-weight="700">SAÚDE</text>
+<circle cx="720" cy="100" r="35" fill="#151c2e"/><text x="706" y="112" font-family="Arial" font-size="32" fill="white" font-weight="700">U</text>
+</svg>
